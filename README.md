@@ -5,3 +5,6 @@
 
 ## stories data
 ### https://documenter.getpostman.com/view/39189595/2sAYQUqERc
+
+## posts
+### https://documenter.getpostman.com/view/39189595/2sAYQUqEaQ
