@@ -8,3 +8,6 @@
 
 ## posts
 ### https://documenter.getpostman.com/view/39189595/2sAYQUqEaQ
+
+## followers
+### https://documenter.getpostman.com/view/39189595/2sAYQUqEej
